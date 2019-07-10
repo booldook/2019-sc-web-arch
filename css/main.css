@@ -1,0 +1,12 @@
+/* header */
+.header {background-color: #fff; padding: 8px 16px; 
+	box-shadow: 0 0 8px rgba(0,0,0,0.4); letter-spacing: 4px;}
+.header > .logo {float: left; padding: 8px; cursor: pointer;}
+.header > .logo:hover {background-color: #ccc;}
+.header > .navis {float: right;}
+.header .navi {float: left; cursor: pointer; padding: 8px 16px;}
+.header .navi:hover {background-color: #ccc;}
+
+
+/* bans */
+
